@@ -7,3 +7,5 @@ For analysis what we basically need is to be able to track which bead/phagosome 
 <p align="center">
   <img src="Cy3_vs_Cy5_plots.png" alt="Illustration of Cy3/Cy5 signals">
 </p>
+
+Initially, a prototype was build in Google colab, and that can be found [here](identifyPeaks_ImageXpress.ipynb).
